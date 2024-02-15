@@ -1,1 +1,1 @@
-# PromptLInK
+# ProLINK
