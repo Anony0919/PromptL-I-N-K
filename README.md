@@ -1,4 +1,4 @@
-# ProLINK
+# PromptL-I-N-K
 
 Modified from the original ULTRA implementation, which can be found here: [https://github.com/DeepGraphLearning/ULTRA](https://github.com/DeepGraphLearning/ULTRA)
 
